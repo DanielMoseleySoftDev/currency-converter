@@ -4,7 +4,7 @@ import Button from '@material-ui/core/Button';
 import CurrencyRow from "./CurrencyRow";
 import StorageTable from "./StorageTable";
 
-const BASE_URL = "https://api.exchangeratesapi.io/v1/latest?access_keye35d8d4966981abce5446e89fd187909"
+const BASE_URL = "http://api.exchangeratesapi.io/v1/latest?access_key=e35d8d4966981abce5446e89fd187909"
 
 function App() {
   //Set States
